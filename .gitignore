@@ -1,6 +1,6 @@
 .env
-Mike/cleaned_aggregated_data.csv
-Mike/aggregated_violations_data.csv
-Mike/food_poisoning.csv
-Mike/restaurant_violations_map_with_dba_names.html
-Mike/restaurant_inspection.csv
+# Mike/cleaned_aggregated_data.csv
+# Mike/aggregated_violations_data.csv
+# Mike/food_poisoning.csv
+# Mike/restaurant_violations_map_with_dba_names.html
+# Mike/restaurant_inspection.csv
