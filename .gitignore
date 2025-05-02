@@ -3,4 +3,5 @@
 # Mike/aggregated_violations_data.csv
 # Mike/food_poisoning.csv
 # Mike/restaurant_violations_map_with_dba_names.html
-# Mike/restaurant_inspection.csv
+K_Means/restaurant_inspection.csv
+RandomForest/restaurant_inspection.csv
